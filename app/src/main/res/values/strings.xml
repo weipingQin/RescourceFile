@@ -10,7 +10,6 @@
     <string name="cancel_tip"                       >知道了</string>
     <string name="setup"                            >设置</string>
     <string name="loading"                          >加载中</string>
-
     <string name="timer_remind"                     >定时可能会存在30秒左右误差</string>
     <string name="about"                            >关于</string>
     <string name="action_back"                      >返回</string>
@@ -18,15 +17,12 @@
     <string name="action_more"                      >更多</string>
     <string name="action_send"                      >发送</string>
     <string name="action_tips_exit_hint"            >再按一次退出</string>
-
     <string name="add_alarm_timer"                  >添加定时</string>
     <string name="cancel"                           >取消</string>
     <string name="checking"                         >正在检测中…</string>
     <string name="done"                             >完成</string>
     <string name="finish"                           >完成</string>
-
     <string name="go_next"                          >下一步</string>
-
     <string name="next"                             >下一步</string>
     <string name="save"                             >保存</string>
     <string name="search"                           >搜索</string>
@@ -40,22 +36,14 @@
     <string name="close_device"                     >关闭设备</string>
     <string name="fail"                             >操作失败</string>
     <string name="custom_day"                       >自定义</string>
-
-
     <string name="network_error"                    >网络连接错误\n 请检查网络状态</string>
     <string name="never_bind"                       >未绑定</string>
     <string name="ty_load_error"                    >加载失败</string>
     <string name="ty_loading"                       >加载中…</string>
-
     <string name="ty_news_go"                       >前往</string>
     <string name="ty_no_data"                       >暂无数据</string>
-
-
     <string name="cannot_input_empty_string"        >输入不能为空</string>
     <string name="choose_country_code"              >国家选择</string>
-    <string name="ty_logout_loading"                >正在安全退出，请稍后…</string>
-
-
 
     <string name="operation_delete">删除</string>
     <string name="ty_network_error">网络错误，请重试</string>
@@ -114,7 +102,6 @@
     <string name="ty_ec_find_add_device_title">添加设备</string>
     <string name="ty_add_device_sort">选择设备类型</string>
 
-
     <!-- 蓝牙方案 -->
     <string name="bluetooth_add">添加蓝牙设备</string>
     <string name="bluetooth_beadded">待添加设备</string>
@@ -130,7 +117,6 @@
     <string name="bluetooth_on_viewdevices">查看设备</string>
     <string name="bluetooth_scanningdevice">正在扫描</string>
     <string name="ty_config_device_init_tip">设备正在初始化&#046;&#046;</string>
-
     <string name="mobile_shortcuts">暂无可用设备</string>
 
     <!--Wifi设备添加-->
@@ -147,8 +133,6 @@
     <string name="ty_wifi_remind_step3">3.返回本应用，继续添加设备</string>
     <string name="ty_wifi_remind_title">将手机Wi-Fi连接到设备热点</string>
     <string name="ty_wifi_strength">Wi-Fi强度</string>
-
-
     <string name="add_new_friend">添加</string>
 
     <!-- GPRS方案 -->
@@ -198,7 +182,6 @@
     <string name="add_new_user_tip">添加新成员使用智能设备</string>
     <string name="ap_mode">兼容模式</string>
 
-
     <!--设备列表相关-->
     <!--设备列表adapter-->
     <string name="right_button_device_offline"      >确定</string>
@@ -206,7 +189,6 @@
     <string name="taste_device_support">演示设备暂不支持此操作</string>
     <string name="ty_offline_delete_share">删除共享</string>
     <string name="ty_get_language_package_fail">更新语言包失败</string>
-
     <string name="left_button_device_offline"       >重置说明</string>
     <string name="ty_no_net_info"                   >当前网络不可用，请检查手机网络</string>
 
@@ -228,7 +210,6 @@
     <string name="group_no_device_dismiss">解散群组</string>
     <string name="group_no_device_manage">管理群组</string>
     <string name="group_no_online_device">该群组中无在线设备</string>
-
     <string name="get_the_latest_ui_version"        >正在获取最新ui界面</string>
     <string name="download_unzip_error">ui界面包解压缩失败</string>
 
@@ -251,9 +232,7 @@
     <string name="ty_control_panel_factory_reset_succ">成功</string>
     <string name="ty_control_panel_factory_reseting">设备恢复出厂设置中，请勿关机&#046;&#046;&#046;</string>
 
-
     <!--定时器model DpTimer-->
-
     <string name="single_week_one">周一</string>
     <string name="single_week_two">周二</string>
     <string name="single_week_three">周三</string>
@@ -287,19 +266,14 @@
     <string name="open_device">开启设备</string>
     <string name="open_wifi">需要开启手机Wi-Fi网络连接才能添加设备，确认后自动开启</string>
 
-
-
     <!--添加wifi设备 绑定设备-->
     <string name="ty_add_network_nocode">你输入密码为空，请再次确认</string>
     <string name="ty_add_network_nocode_goon">继续</string>
     <string name="ty_add_stop">将停止添加设备，是否确认退出？</string>
-
     <string name="ty_device_id">设备ID</string>
     <string name="ty_equipment_information">设备信息</string>
-
     <string name="ty_ip_addr">IP地址</string>
     <string name="ty_keep_power_working">请勿切断设备电源</string>
-
     <string name="ty_modify_device_name_length_limit">设备名称不可超过25个字符</string>
     <string name="ty_modify_group_name_length_limit">群组名称不可超过25个字符</string>
     <string name="ty_mqtt_connecting">设备正在连接中&#046;&#046;&#046;</string>
@@ -380,6 +354,16 @@
     <string name="firmware_upgrading">固件正在升级中，请勿切断设备电源</string>
     <string name="check_update">检查固件升级</string>
 
+    <string name="firmware_no_update_one">当前版本号：</string>
+    <string name="firmware_no_update_title">已是最新版本</string>
+    <string name="firmware_no_update">当前版本%s (已是最新版本)</string>
+    <string name="firmware_upgrade_failure">升级失败</string>
+    <string name="upgrade_get_infoing">检测固件版本</string>
+    <string name="firmware_upgrade_dev">设备控制模块:</string>
+    <string name="firmware_upgrade_failure_description">请重启设备电源后再次尝试</string>
+    <string name="firmware_upgrade_gw">联网模块版本:</string>
+    <string name="firmware_upgrade_now">立即升级</string>
+
 
     <!--升级的工具组件 CommonUtil-->
     <string name="update_download_later_hint">稍候下载</string>
@@ -392,7 +376,6 @@
     <string name="update_notify_install_desc">%s 版本下载完毕，点击安装。</string>
     <string name="update_notify_title">升级</string>
     <string name="ty_app_upgrade_tips">当前APP版本不支持该设备,\n请升级APP版本</string>
-
 
     <!--Tost提示语-->
     <string name="update_downloading">%s 版本下载中，请稍候…</string>
@@ -418,14 +401,10 @@
     <string name="logining">登录中…</string>
     <string name="logout">退出登录</string>
 
-
-
-
     <!-- 登录注册 -->
     <string name="input_password"                   >密码</string>
     <string name="input_telephone_number"           >手机号码</string>
     <string name="input_verification_code"          >验证码</string>
-
     <string name="code_has_send_to_email">验证码已经发送到你的邮箱:</string>
     <string name="code_has_send_to_phone">验证码已经发送到你的手机:</string>
     <string name="direct_login">是否直接登录?</string>
@@ -463,8 +442,8 @@
     <string name="input_login_password">请输入登录密码</string>
     <string name="input_password_again">再次输入密码</string>
 
-
     <!--个人中心页-->
+    <string name="ty_logout_loading"                >正在安全退出，请稍后…</string>
     <string name="ty_bind_phone_num">请先绑定手机号</string>
     <string name="ty_bind_phone_num_now">马上绑定</string>
     <string name="ty_current_bind_phone_tip">您当前绑定的账号为：</string>
@@ -489,7 +468,6 @@
     <string name="ty_add_share_tab2_note">下列用户绑定的设备已经共享给你</string>
     <string name="ty_delete_share_pop_android">该用户共享的设备, 将从你的设备列表中移除</string>
     <string name="ty_share_add">分享给新成员</string>
-
     <string name="ty_share_add_device">设备共享</string>
     <string name="ty_share_add_device_nodevice">暂无可共享的设备</string>
     <string name="ty_share_add_newdevice">共享新增设备</string>
@@ -525,7 +503,6 @@
     <string name="feedback_success_result">您的反馈已经发送，请等待我们的回复。</string>
     <string name="feedback_title">意见反馈</string>
 
-
     <!--关于-->
     <string name="ty_thanks">谢谢您的支持</string>
     <string name="ty_about_tuyasmart">关于涂鸦智能</string>
@@ -539,15 +516,7 @@
     <!--弹窗Toast-->
     <string name="update_no_new_version">已是最新版本</string>
 
-    <string name="firmware_no_update_one">当前版本号：</string>
-    <string name="firmware_no_update_title">已是最新版本</string>
-    <string name="firmware_no_update">当前版本%s (已是最新版本)</string>
-    <string name="firmware_upgrade_failure">升级失败</string>
-    <string name="upgrade_get_infoing">检测固件版本</string>
-    <string name="firmware_upgrade_dev">设备控制模块:</string>
-    <string name="firmware_upgrade_failure_description">请重启设备电源后再次尝试</string>
-    <string name="firmware_upgrade_gw">联网模块版本:</string>
-    <string name="firmware_upgrade_now">立即升级</string>
+
     <string name="copy_right">©2015 Tuya Inc. All Rights Reserved</string>
 
     <!--设置-->
@@ -581,9 +550,6 @@
     <string name="ty_gesture_not_matching">手势密码输入错误，请重新输入</string>
     <string name="ty_creat_gesture_key_info">你可以创建一个解锁图案，这样他人在借用你的手机时，将无法操控你的设备</string>
     <string name="ty_profile_gesture">手势解锁</string>
-
-
-
 
 
 
